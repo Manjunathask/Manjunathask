@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=280&section=header&text=Manjunatha%20Krishna&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Pipeline%20Orchestration%20%7C%20Azure&descAlignY=75&descSize=25&animation=fadeIn" alt="Manjunatha Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=320&section=header&text=Manjunatha%20Krishna&fontSize=50&fontAlignY=35&desc=Data%20Engineer%20%7C%20Pipeline%20Orchestration%20%7C%20Azure&descAlignY=75&descSize=25&animation=fadeIn" alt="Manjunatha Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,9 +25,16 @@
 <h2 align="center">🛠️ Engineering Stack</h2>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,docker,mssql,kafka,airflow,powerbi&perline=7&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 <br />
