@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Manjunatha%20Krishna&fontSize=90&fontAlign=50&desc=Data%20Engineer%20%7C%20Pipeline%20Orchestration%20%7C%20Azure&descAlign=50&descAlignY=55" alt="Manjunatha Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=280&section=header&text=Manjunatha%20Krishna&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Pipeline%20Orchestration%20%7C%20Azure&descAlignY=75&descSize=25&animation=fadeIn" alt="Manjunatha Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,38 +25,9 @@
 <h2 align="center">🛠️ Engineering Stack</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br />Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-        <br />Azure
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br />Docker
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-        <br />Adv. SQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-        <br />Kafka
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=airflow" width="48" height="48" alt="Airflow" />
-        <br />Airflow
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="PowerBI" />
-        <br />PowerBI
-      </td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,azure,docker,mssql,kafka,airflow,powerbi&perline=7&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
 <br />
