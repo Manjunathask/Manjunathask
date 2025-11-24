@@ -79,5 +79,5 @@
 <br />
 
 <div align="center">
-  <p><i>Currently preparing for <b>Azure Data Engineer Associate (DP-203)</b> and <b>Data Engineering on Azure (DP-700)</b>.</i></p>
+  <p><i>Currently preparing for <b>Microsoft Fabric Data Engineering (DP-700)</b>.</i></p>
 </div>
