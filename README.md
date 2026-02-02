@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Building Scalable Data Platforms & Automated Pipelines</h3>
+  <h3>Building Scalable Data Platforms & Automated Pipelines</h3>
   <p>
     Data Engineer based in <b>Manchester, UK</b>. I specialize in modernizing legacy infrastructure, 
     building <b>Medallion Architectures</b>, and orchestrating containerized workflows.
@@ -39,7 +39,7 @@
 
 <br />
 
-<h2>🏆 Featured Architecture: NHS Data Pipeline</h2>
+<h2>Featured Architecture: NHS Data Pipeline</h2>
 
 > **The Challenge:** Simulate and process high-volume A&E patient data to track wait-time breaches and ward occupancy in real-time.
 
