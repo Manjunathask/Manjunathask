@@ -34,7 +34,7 @@
     <tr>
       <td align="center">
         <b>🎯 Role</b><br/>
-        Junior Data Engineer<br/>
+        Data Engineer<br/>
         Analytics Engineer
       </td>
       <td align="center">
