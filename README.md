@@ -91,15 +91,15 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Microsoft_Fabric-Data_Engineer-5E5E5E?style=for-the-badge&logo=microsoft" /><br/>
         <b>DP-700</b><br/>
-        <i>December 2024</i>
+        <i>December 2025</i>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/DataCamp-Data_Engineering_with_SQL-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" /><br/>
-        <i>February 2024</i>
+        <i>February 2025</i>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/DataCamp-Data_Engineering_with_Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" /><br/>
-        <i>October 2024</i>
+        <i>October 2025</i>
       </td>
     </tr>
   </table>
